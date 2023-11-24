@@ -9,7 +9,10 @@
 2. [Report API Quickstart](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Report_API_Quickstart.ipynb), p44
 3. [StableLM-3B-4E1T Technical Report](https://stability.wandb.io/stability-llm/stable-lm/reports/StableLM-3B-4E1T--VmlldzoyMjU4?accessToken=u3zujipenkx5g7rtcj9qojjgxpconyjktjkli2po09nffrffdhhchq045vp0wyfo), p45
 4. [MONAI を用いた胸部セグメンテーションチュートリアル Report](https://t.co/ID7FGdAHCi), p45
-5. [Nejumi LLM リーダーボード Report](https://api.wandb.ai/links/wandb/of14m7km), p45
+5. [Nejumi LLM リーダーボード Report](https://api.wandb.ai/links/wandb/of14m7km), p45  
+
+その他: [「2.2.3 WandB Tableの可視化」で用いたシンプルなMNISTの例](https://colab.research.google.com/drive/1ryBHYPkUv-O3FPKpwZ8zyOzmPu5hcFdL?usp=sharing), p39
+
 
 ### 第3章 WandB のアドバンス機能
 1. [https://wandb.ai/registry/model](https://wandb.ai/registry/model), p55
