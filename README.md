@@ -31,7 +31,7 @@
 
 
 ## 第3章 Weave（ch3_weave.re）
-[本書コンテンツ対応Colab Notebookはこちら](https://colab.research.google.com/drive/1YVt6pzEKGP1iCX26wVjoeyYU84NDzlYr?usp=sharing)
+[本書コンテンツ対応Colab Notebookはこちら](https://colab.research.google.com/drive/14vACDhevMEG3O2XtKfcAJta9hwfu5GOt?usp=sharing)
 
 - 画像: [https://assets.st-note.com/img/1762403176-PimhEZu3voSeGp5C0l9t4z2N.png](https://assets.st-note.com/img/1762403176-PimhEZu3voSeGp5C0l9t4z2N.png)
 - arXiv PDF（テンプレート）: [https://arxiv.org/pdf/](https://arxiv.org/pdf/)
