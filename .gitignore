@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.netrc
+wandb/
+artifacts/
+sample_data/
+segment_demo/
+BDD100K_seg_demo.zip
+models/
+*.pt
+*.pth

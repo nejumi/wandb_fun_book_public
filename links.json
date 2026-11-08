@@ -1,0 +1,900 @@
+{
+  "edition": 4,
+  "updated": "2026-11-08",
+  "chapters": [
+    {
+      "chapter": "はじめにお読みください",
+      "links": [
+        {
+          "url": "https://github.com/nejumi/wandb_fun_book_public",
+          "label": "公開リンク集・サンプルノートブック",
+          "source": "preface.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第1章 イントロダクション",
+      "links": [
+        {
+          "url": "https://github.com/wandb/skills",
+          "label": "W&B Skills",
+          "source": "ch1_introduction.re"
+        },
+        {
+          "url": "https://github.com/wandb/wandb-mcp-server",
+          "label": "W&B MCP Server",
+          "source": "ch1_introduction.re"
+        },
+        {
+          "url": "https://developers.openai.com/codex/mcp/",
+          "label": "公式手順",
+          "source": "ch1_introduction.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第2章 実験とアセットを管理する — W&B ModelsとRegistry",
+      "links": [
+        {
+          "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html",
+          "label": "SGDRegressor",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/ref/python/experiments/settings",
+          "label": "Settings",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/ios-app-system-metrics-now-supported",
+          "label": "W&B公式更新記事より",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://github.com/wandb/docs/blob/main/models/runs/forking.mdx",
+          "label": "Fork a run",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://github.com/wandb/docs/blob/main/models/runs/rewind.mdx",
+          "label": "Rewind a run",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/experiment_tracking_pytorch.ipynb",
+          "label": "Weights & Biasesを使用したデータサイエンス実験管理のチュートリアルノートブック",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.wandb.ai/guides/artifacts/ttl",
+          "label": "Manage data retention with Artifact TTL policy",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/multimedia_logging.ipynb",
+          "label": "W&Bのマルチメディア、全部logするColabサンプル.ipynb",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/report_api_quickstart.ipynb",
+          "label": "Report API Quickstart",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://t.co/ID7FGdAHCi",
+          "label": "MONAIを用いた胸部セグメンテーションチュートリアル Report",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://nejumi.ai",
+          "label": "Nejumi LLMリーダーボード Report",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://forge.coreweave.com/forge-reports",
+          "label": "Forge Reports",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/lineage",
+          "label": "Lineage graphs and audit history",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/download_use_artifact",
+          "label": "Download an artifact from a registry",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/track",
+          "label": "Experiments",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/artifacts",
+          "label": "Artifacts",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://github.com/wandb/docs/blob/main/models/artifacts/track-external-files.mdx",
+          "label": "Track external files",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/tables/log_tables",
+          "label": "Log tables",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry",
+          "label": "Registry overview",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/aliases",
+          "label": "Registry aliases",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/registry_huggingface",
+          "label": "Import models from Hugging Face Hub",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/deploy_models",
+          "label": "Deploy models to a sandbox",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/automations",
+          "label": "Automations overview",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/runs/compare-runs",
+          "label": "Pin and compare runs",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/features/panels/line-plot/sampling",
+          "label": "Point aggregation",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/features/panels/media",
+          "label": "Media panels",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/synced-zoom-and-pan-in-compare-mode-for-images-1DOJRO64",
+          "label": "Synced zoom and pan in compare mode for images（2026-10-29）",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/snap-media-to-step-x7kmCWaA",
+          "label": "Snap Media to Step（2026-06-30）",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/registry_cards",
+          "label": "Annotate collections",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/leet-tui",
+          "label": "LEET terminal UI",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/track/log/log-summary",
+          "label": "Log summary metrics",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/hosting/iam/api-keys",
+          "label": "Manage API keys",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/runs/filter-runs",
+          "label": "Filter runs",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/track/config#highlight-config-values",
+          "label": "Configure experiments: Highlight config values",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/features/panels/code",
+          "label": "Save and diff code",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app",
+          "label": "W&B Mobile App (iOS)",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/hosting/data-security/secure-storage-connector",
+          "label": "Bring your own bucket",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/features/custom-charts",
+          "label": "Custom charts",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/features/custom-charts/walkthrough",
+          "label": "Tutorial: Use custom charts",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://vega.github.io/vega-lite/usage/compile.html",
+          "label": "Compiling Vega-Lite to Vega",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/app/keyboard-shortcuts",
+          "label": "Keyboard shortcuts",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://wandb.ai/haruka/Reports/reports/W-B---Vmlldzo2MjkxMTQ2",
+          "label": "Haruka: W&Bの隠れ機能集（2023年）",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/reports/edit-a-report",
+          "label": "Edit a report",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/reports/clone-and-export-reports",
+          "label": "Clone and export reports",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/launch/create-launch-job",
+          "label": "Create a launch job",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/ref/cli/wandb-job/wandb-job-create",
+          "label": "wandb job create",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria/autoresearch#launch-components",
+          "label": "ARIA autoresearch: Launch components",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/ref/cli/wandb-launch-agent",
+          "label": "wandb launch-agent",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/launch/add-job-to-queue",
+          "label": "Add job to queue",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/launch/job-inputs",
+          "label": "Manage job inputs",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/automations/create-automations/webhook",
+          "label": "Create a webhook automation",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/platform/launch/setup-agent-advanced",
+          "label": "Set up launch agent",
+          "source": "ch2_models.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第3章 AIアプリケーションを観測・評価する — WeaveとAgent Lens",
+      "links": [
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/core-types/media",
+          "label": "Log media / Content API",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.python.org/3/library/tempfile.html",
+          "label": "Python tempfile",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://requests.readthedocs.io/en/latest/user/quickstart/#timeouts",
+          "label": "Requests: Timeouts",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/integrations/agents/codex-harness",
+          "label": "Weave Codex plugin",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/integrations/agents/claude-code-harness",
+          "label": "Weave Claude Code plugin",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/view-agent-activity",
+          "label": "View agent activity",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/integrations/codex",
+          "label": "Agent Lens Codex plugin",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/integrations/claude-code",
+          "label": "Agent Lens Claude Code plugin",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/conversations/view-activity",
+          "label": "Agent Lens: View agent activity",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/core-types/evaluations",
+          "label": "Evaluations overview",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/evaluation_logger",
+          "label": "Log evaluation data from your code",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/tutorial-rag",
+          "label": "Evaluate RAG applications",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/guardrails",
+          "label": "Set up guardrails",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/view-agent-signals",
+          "label": "Monitor your agents with signals",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/faithfulness/",
+          "label": "Ragas 0.4.3: Faithfulness",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.ragas.io/en/v0.4.3/howtos/migrations/migrate_from_v03_to_v04/",
+          "label": "Ragas 0.4.3: Migration from v0.3 to v0.4",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/context_precision/",
+          "label": "Ragas 0.4.3: Context Precision",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/context_recall/",
+          "label": "Ragas 0.4.3: Context Recall",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/core-types/prompts",
+          "label": "Create prompt objects",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/core-types/prompts-version",
+          "label": "Store and track versions of prompts",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/registry/link_prompt",
+          "label": "Link a Weave prompt to a collection",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/compare_evals",
+          "label": "Compare evaluations",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/dynamic_leaderboards",
+          "label": "Create dynamic Leaderboards in Evaluations",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tools/comparison",
+          "label": "Compare traces and other logged information",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/annotation-queues",
+          "label": "Set up annotation queues",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/annotation-review",
+          "label": "Review items in an annotation queue",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tools/evaluation_playground",
+          "label": "Compare model performance using the Evaluation Playground",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tools/custom-runtimes",
+          "label": "Add custom runtimes",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/trace-plots",
+          "label": "Use trace plots",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/introducing-wb-weave-dashboards-for-production-monitoring-iwCfB8gu",
+          "label": "Introducing W&B Weave dashboards for production monitoring（2026-04-10）",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/automations",
+          "label": "Set up automations",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/custom-monitors",
+          "label": "Set up custom monitors",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/evaluation/export_eval",
+          "label": "Export evaluation data",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/costs",
+          "label": "Track costs",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/ops",
+          "label": "Customize Ops",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/what-is-agent-lens",
+          "label": "What is Agent Lens?",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave",
+          "label": "W&B Weave",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/insights",
+          "label": "View agent insights",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/get-started/opentelemetry",
+          "label": "Send OpenTelemetry spans to Agent Lens",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens",
+          "label": "Agent Lens: Automatically instrument your agent",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/conversations/annotate-turns",
+          "label": "Annotate conversation turns",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://github.com/wandb/weave/blob/master/weave/trace_server/clickhouse_trace_server_batched.py",
+          "label": "Weave ClickHouse trace server: official implementation",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/agent-lens/tags/create-tag",
+          "label": "Create a custom tag",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://coreweave.com/products/coreweave-forge/agent-lens",
+          "label": "CoreWeave Agent Lens",
+          "source": "ch3_weave.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第4章 AI開発の操作・分析・自動化 — ARIAとNotebooks",
+      "links": [
+        {
+          "url": "https://www.coreweave.com/products/coreweave-forge/aria",
+          "label": "CoreWeave ARIA",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/add-context-to-aria-across-wb",
+          "label": "Add context to ARIA across W&B",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/connect-aria-to-github-hugging-face-and-more-Y2RrZQry",
+          "label": "Connect ARIA to GitHub, Hugging Face, and more",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/see-and-manage-your-aria-automations-in-chat-OhcoOhK5",
+          "label": "See and manage your ARIA Automations in chat",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/share-an-aria-thread-with-your-organization-fxH1WBhG",
+          "label": "Share an ARIA thread with your organization",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://coreweave.com/blog/introducing-coreweave-notebooks-for-interactive-ai-development",
+          "label": "Introducing CoreWeave Notebooks",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria/chat",
+          "label": "Chat with ARIA",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria/autoresearch",
+          "label": "Use ARIA for autoresearch",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/automations/create-automations/aria",
+          "label": "Use automations with ARIA",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/notebooks",
+          "label": "Notebooks overview",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/notebooks/get-started",
+          "label": "Notebooks get started",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/notebooks/run-notebook-cells",
+          "label": "Run notebook cells",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.python.org/3/library/statistics.html",
+          "label": "Python statistics: pstdev and stdev",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://app.getbeamer.com/forge/en/visualize-your-data-in-aria-with-plotly-xcF0Zm23",
+          "label": "Visualize your data in ARIA with Plotly（2026-08-28）",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria#view-and-manage-project-memories",
+          "label": "ARIA: View and manage project memories",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria/secrets",
+          "label": "Secrets in ARIA",
+          "source": "ch4_aria_notebooks.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第5章 モデル推論とコード実行 — InferenceとSandboxes",
+      "links": [
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless",
+          "label": "Serverless Inference",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/models",
+          "label": "Available models",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/api-reference/list-models",
+          "label": "List models",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/response-settings/streaming",
+          "label": "Streaming",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/response-settings/structured-output",
+          "label": "Structured output",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/response-settings/tool-calling",
+          "label": "Tool calling",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/examples",
+          "label": "Inference usage examples with Weave",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/get-started",
+          "label": "Get started with Sandboxes",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/client/guides/file-operations",
+          "label": "File operations",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/client/guides/execution",
+          "label": "Command execution",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/client/guides/sandbox-lifecycle",
+          "label": "Sandbox lifecycle",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/client/guides/sandbox-configuration",
+          "label": "Sandbox configuration",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/file-system-snapshots",
+          "label": "File system snapshots",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/sandboxes/gpu-sandboxes",
+          "label": "GPU sandboxes",
+          "source": "ch5_execution.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/inference/serverless/usage-limits",
+          "label": "Inference usage and limits",
+          "source": "ch5_execution.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第6章 Post-training — SFT・強化学習・蒸留",
+      "links": [
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training",
+          "label": "About serverless training",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://art.openpipe.ai/fundamentals/sft-training/",
+          "label": "ART SFT training",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training/sft",
+          "label": "Use Serverless SFT",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training/available-models",
+          "label": "Training available models",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training/api-reference",
+          "label": "Serverless Training API reference",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://art.openpipe.ai/fundamentals/training-loop/",
+          "label": "ART training loop",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://github.com/OpenPipe/ART/blob/main/src/art/serverless/backend.py",
+          "label": "ART ServerlessBackend implementation",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training/rl",
+          "label": "Use Serverless RL and trained models",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/overview",
+          "label": "Model Distillation overview",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/quickstart",
+          "label": "Model Distillation quick start",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/post-training/serverless-training/usage-limits",
+          "label": "Training usage information and limits",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://github.com/OpenPipe/art-notebooks/blob/main/examples/2048/2048.ipynb",
+          "label": "Official ART 2048 notebook",
+          "source": "ch6_post_training.re"
+        }
+      ]
+    },
+    {
+      "chapter": "第7章 W&Bの応用事例",
+      "links": [
+        {
+          "url": "https://huggingface.co/spaces/llm-jp/open-japanese-llm-leaderboard",
+          "label": "オープン日本語LLMリーダーボード",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2505.11831",
+          "label": "ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://github.com/arcprize/ARC-AGI-2",
+          "label": "ARC-AGI-2 (GitHub)",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2501.14249",
+          "label": "Humanity's Last Exam",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2502.04688",
+          "label": "M-IFEval: Multilingual Instruction-Following Evaluation",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2311.07911",
+          "label": "IFEval: Instruction-Following Evaluation for Large Language Models",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/segmentation_tables.ipynb",
+          "label": "W&B Courses Effective MLOps: Model DevelopmentのNotebookから抜粋",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://www.wandb.courses/",
+          "label": "W&B Courses",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/rdkit_chemical_analysis.ipynb",
+          "label": "RDKit連携チュートリアルノートブック",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://www.kaggle.com/datasets/waqarkaleemkhan/drug-bank-dataset-excel-file",
+          "label": "Drug Bank Dataset, Kaggle Datasets",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://aclanthology.org/2020.acl-main.442/",
+          "label": "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (ACL 2020)",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://tech.algomatic.jp/entry/2025/03/14/183732",
+          "label": "UIも自動化も後回し: AIエージェント開発の実践的アプローチ",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://docs.wandb.ai/ja",
+          "label": "W&Bの始め方",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://docs.wandb.ai/weave",
+          "label": "How to start W&B (Models and Weave)",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://github.com/olachinkei/wandb-handson/tree/main/esim-agent-demo",
+          "label": "esim-agent-demo",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://docs.wandb.ai/weave/guides/core-types/evaluations",
+          "label": "Weave Evaluations",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/agent-lab/esim-agent/weave/evaluations?view=evaluations_default&chartsOpen=false",
+          "label": "Evaluations Project",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://docs.wandb.ai/weave/guides/core-types/models",
+          "label": "Weave Models",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/agent-lab/report/reports/AI-Tool---VmlldzoxNDgwMDM1MQ",
+          "label": "AIエージェントのオブザーバビリティと評価とモニタリングToolの今後",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_pretraining/reports/Pretraining-Finetuning-of-Protein-Language-Model-with-BioNeMO-WandB-JP--Vmlldzo4MTM3NzIx",
+          "label": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_pretraining/reports/Pretraining-Finetuning-of-Protein-Language-Model-with-BioNeMO-W&B-JP--Vmlldzo4MTM3NzIx",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_pretraining?nw=nwuserkeisukekamata",
+          "label": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_pretraining?nw=nwuserkeisukekamata",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_finetuning?nw=nwuserkeisukekamata",
+          "label": "https://wandb.ai/wandb-healthcare/BioNeMo_protein_LLM_finetuning?nw=nwuserkeisukekamata",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://wandb.ai/wandb-healthcare/BioNeMo_Molecure_optimization?nw=nwuserkeisukekamata",
+          "label": "https://wandb.ai/wandb-healthcare/BioNeMo_Molecure_optimization?nw=nwuserkeisukekamata",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://github.com/olachinkei/BioNeMo_WandB/tree/main",
+          "label": "https://github.com/olachinkei/BioNeMo_W&B/tree/main",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://resources.nvidia.com/ja-jp-hc-drug-discovery/nvidia-success-story-4?ncid=no-ncid",
+          "label": "https://resources.nvidia.com/ja-jp-hc-drug-discovery/nvidia-success-story-4?ncid=no-ncid",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://zenn.dev/yume_neko/articles/7347ba6b081e93",
+          "label": "公開リンク集",
+          "source": "ch5_use_cases.re"
+        },
+        {
+          "url": "https://www.kaggle.com/code/cdeotte/how-to-train-open-book-model-part-1",
+          "label": "公開リンク集",
+          "source": "ch5_use_cases.re"
+        }
+      ]
+    },
+    {
+      "chapter": "著者紹介",
+      "links": []
+    }
+  ]
+}
