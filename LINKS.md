@@ -133,6 +133,7 @@
 - [Visualize your data in ARIA with Plotly（2026-08-28）](https://app.getbeamer.com/forge/en/visualize-your-data-in-aria-with-plotly-xcF0Zm23)
 - [ARIA: View and manage project memories](https://docs.coreweave.com/products/aria#view-and-manage-project-memories)
 - [Secrets in ARIA](https://docs.coreweave.com/products/aria/secrets)
+- [ARIA overview](https://docs.coreweave.com/products/aria)
 
 ## 第5章 モデル推論とコード実行 — InferenceとSandboxes
 

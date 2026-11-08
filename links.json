@@ -609,6 +609,11 @@
           "url": "https://docs.coreweave.com/products/aria/secrets",
           "label": "Secrets in ARIA",
           "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/aria",
+          "label": "ARIA overview",
+          "source": "ch4_aria_notebooks.re"
         }
       ]
     },
