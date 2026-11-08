@@ -116,6 +116,7 @@
 
 ## 第4章 AI開発の操作・分析・自動化 — ARIAとNotebooks
 
+- [公開サンプルのexamplesフォルダー](https://github.com/nejumi/wandb_fun_book_public/tree/main/examples)
 - [CoreWeave ARIA](https://www.coreweave.com/products/coreweave-forge/aria)
 - [Add context to ARIA across W&B](https://app.getbeamer.com/forge/en/add-context-to-aria-across-wb)
 - [Connect ARIA to GitHub, Hugging Face, and more](https://app.getbeamer.com/forge/en/connect-aria-to-github-hugging-face-and-more-Y2RrZQry)

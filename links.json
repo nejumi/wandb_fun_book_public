@@ -526,6 +526,11 @@
       "chapter": "第4章 AI開発の操作・分析・自動化 — ARIAとNotebooks",
       "links": [
         {
+          "url": "https://github.com/nejumi/wandb_fun_book_public/tree/main/examples",
+          "label": "公開サンプルのexamplesフォルダー",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
           "url": "https://www.coreweave.com/products/coreweave-forge/aria",
           "label": "CoreWeave ARIA",
           "source": "ch4_aria_notebooks.re"

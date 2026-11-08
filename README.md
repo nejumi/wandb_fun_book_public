@@ -1,6 +1,6 @@
 # W&Bで始める実験管理 — 改訂第四版
 
-CoreWeave Forge対応の第4版で使うサンプルノートブックと参照リンクを公開しています。
+CoreWeave Forge対応の第4版で使うサンプルコード・ノートブックと参照リンクを公開しています。
 
 ## サンプルノートブック
 
@@ -15,6 +15,10 @@ CoreWeave Forge対応の第4版で使うサンプルノートブックと参照�
 | 第7章 | [RDKitを用いた化合物の分析](notebooks/rdkit_chemical_analysis.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/rdkit_chemical_analysis.ipynb) |
 
 セグメンテーションの学習には、ColabのGPUランタイムをおすすめします。マルチメディアのnuScenes追加例は、別途データを用意した場合に実行できます。
+
+## ARIAの操作用サンプル
+
+第4章の[比較用ダミーRunを作成するスクリプト](examples/README.md)を収録しています。ARIAの操作例を試すため、説明用の精度・実行時間を記録した8件のRunを用意します。
 
 ## 本書の参照先
 
