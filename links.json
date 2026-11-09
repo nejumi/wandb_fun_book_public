@@ -1,6 +1,6 @@
 {
   "edition": 4,
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "chapters": [
     {
       "chapter": "はじめにお読みください",
@@ -503,11 +503,6 @@
         {
           "url": "https://docs.coreweave.com/products/agent-lens/conversations/annotate-turns",
           "label": "Annotate conversation turns",
-          "source": "ch3_weave.re"
-        },
-        {
-          "url": "https://github.com/wandb/weave/blob/master/weave/trace_server/clickhouse_trace_server_batched.py",
-          "label": "Weave ClickHouse trace server: official implementation",
           "source": "ch3_weave.re"
         },
         {

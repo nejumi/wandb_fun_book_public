@@ -110,7 +110,6 @@
 - [Send OpenTelemetry spans to Agent Lens](https://docs.coreweave.com/products/agent-lens/get-started/opentelemetry)
 - [Agent Lens: Automatically instrument your agent](https://docs.coreweave.com/products/agent-lens)
 - [Annotate conversation turns](https://docs.coreweave.com/products/agent-lens/conversations/annotate-turns)
-- [Weave ClickHouse trace server: official implementation](https://github.com/wandb/weave/blob/master/weave/trace_server/clickhouse_trace_server_batched.py)
 - [Create a custom tag](https://docs.coreweave.com/products/agent-lens/tags/create-tag)
 - [CoreWeave Agent Lens](https://coreweave.com/products/coreweave-forge/agent-lens)
 
