@@ -68,6 +68,7 @@
 
 ## 第3章 AIアプリケーションを観測・評価する — WeaveとAgent Lens
 
+- [公開リポジトリの補助コード](https://github.com/nejumi/wandb_fun_book_public/blob/main/examples/weave_media.py)
 - [Log media / Content API](https://docs.coreweave.com/products/wandb/weave/guides/core-types/media)
 - [Python tempfile](https://docs.python.org/3/library/tempfile.html)
 - [Requests: Timeouts](https://requests.readthedocs.io/en/latest/user/quickstart/#timeouts)

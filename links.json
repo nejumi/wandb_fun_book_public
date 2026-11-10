@@ -296,6 +296,11 @@
       "chapter": "第3章 AIアプリケーションを観測・評価する — WeaveとAgent Lens",
       "links": [
         {
+          "url": "https://github.com/nejumi/wandb_fun_book_public/blob/main/examples/weave_media.py",
+          "label": "公開リポジトリの補助コード",
+          "source": "ch3_weave.re"
+        },
+        {
           "url": "https://docs.coreweave.com/products/wandb/weave/guides/core-types/media",
           "label": "Log media / Content API",
           "source": "ch3_weave.re"
