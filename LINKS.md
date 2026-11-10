@@ -164,8 +164,15 @@
 - [Use Serverless RL and trained models](https://docs.coreweave.com/products/post-training/serverless-training/rl)
 - [Model Distillation overview](https://docs.coreweave.com/model-distillation/overview)
 - [Model Distillation quick start](https://docs.coreweave.com/model-distillation/quickstart)
-- [Training usage information and limits](https://docs.coreweave.com/products/post-training/serverless-training/usage-limits)
 - [Official ART 2048 notebook](https://github.com/OpenPipe/art-notebooks/blob/main/examples/2048/2048.ipynb)
+- [Announcing Serverless SFT on W&B Training](https://forge.coreweave.com/wandb/wandb_fc/product-announcements-fc/reports/Announcing-Serverless-SFT-on-W-B-Training--VmlldzoxNTk3MjU4Mw)
+- [ART Backend](https://art.openpipe.ai/fundamentals/art-backend/)
+- [Serverless RLの設計と開発背景](https://openpipe.ai/blog/serverless-rl)
+- [ART-Optimized Megatron](https://www.coreweave.com/blog/art-optimized-megatron-aom-12x-higher-training-throughput)
+- [Model Distillation datasets](https://docs.coreweave.com/model-distillation/studio/datasets)
+- [Model Distillation fine-tuning quick start](https://docs.coreweave.com/model-distillation/studio/fine-tuning-quickstart)
+- [Model Distillation evaluations](https://docs.coreweave.com/model-distillation/studio/evaluations)
+- [Model Distillation routing](https://docs.coreweave.com/model-distillation/studio/routing-and-versions)
 
 ## 第7章 W&Bの応用事例
 

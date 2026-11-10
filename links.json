@@ -1,6 +1,6 @@
 {
   "edition": 4,
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "chapters": [
     {
       "chapter": "はじめにお読みください",
@@ -746,13 +746,48 @@
           "source": "ch6_post_training.re"
         },
         {
-          "url": "https://docs.coreweave.com/products/post-training/serverless-training/usage-limits",
-          "label": "Training usage information and limits",
+          "url": "https://github.com/OpenPipe/art-notebooks/blob/main/examples/2048/2048.ipynb",
+          "label": "Official ART 2048 notebook",
           "source": "ch6_post_training.re"
         },
         {
-          "url": "https://github.com/OpenPipe/art-notebooks/blob/main/examples/2048/2048.ipynb",
-          "label": "Official ART 2048 notebook",
+          "url": "https://forge.coreweave.com/wandb/wandb_fc/product-announcements-fc/reports/Announcing-Serverless-SFT-on-W-B-Training--VmlldzoxNTk3MjU4Mw",
+          "label": "Announcing Serverless SFT on W&B Training",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://art.openpipe.ai/fundamentals/art-backend/",
+          "label": "ART Backend",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://openpipe.ai/blog/serverless-rl",
+          "label": "Serverless RLの設計と開発背景",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://www.coreweave.com/blog/art-optimized-megatron-aom-12x-higher-training-throughput",
+          "label": "ART-Optimized Megatron",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/studio/datasets",
+          "label": "Model Distillation datasets",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/studio/fine-tuning-quickstart",
+          "label": "Model Distillation fine-tuning quick start",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/studio/evaluations",
+          "label": "Model Distillation evaluations",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/model-distillation/studio/routing-and-versions",
+          "label": "Model Distillation routing",
           "source": "ch6_post_training.re"
         }
       ]
