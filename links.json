@@ -771,6 +771,26 @@
           "source": "ch6_post_training.re"
         },
         {
+          "url": "https://arxiv.org/abs/2501.12599",
+          "label": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2505.24298",
+          "label": "AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2509.19128",
+          "label": "PipelineRL: Faster On-policy Reinforcement Learning for Long Sequence Generation",
+          "source": "ch6_post_training.re"
+        },
+        {
+          "url": "https://arxiv.org/abs/2507.18071",
+          "label": "Group Sequence Policy Optimization",
+          "source": "ch6_post_training.re"
+        },
+        {
           "url": "https://docs.coreweave.com/model-distillation/studio/datasets",
           "label": "Model Distillation datasets",
           "source": "ch6_post_training.re"
