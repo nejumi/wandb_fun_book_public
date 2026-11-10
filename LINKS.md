@@ -12,7 +12,7 @@
 - [W&B MCP Server](https://github.com/wandb/wandb-mcp-server)
 - [公式手順](https://developers.openai.com/codex/mcp/)
 
-## 第2章 実験とアセットを管理する — W&B ModelsとRegistry
+## 第2章 実験とアセットを管理する — W&B Models
 
 - [SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html)
 - [Settings](https://docs.coreweave.com/products/wandb/ref/python/experiments/settings)
@@ -20,6 +20,7 @@
 - [W&B Mobile App (iOS)](https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app)
 - [Fork a run](https://github.com/wandb/docs/blob/main/models/runs/forking.mdx)
 - [Rewind a run](https://github.com/wandb/docs/blob/main/models/runs/rewind.mdx)
+- [Track Jupyter notebooks](https://docs.coreweave.com/products/wandb/track/jupyter)
 - [Weights & Biasesを使用したデータサイエンス実験管理のチュートリアルノートブック](https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/experiment_tracking_pytorch.ipynb)
 - [Manage data retention with Artifact TTL policy](https://docs.wandb.ai/guides/artifacts/ttl)
 - [W&Bのマルチメディア、全部logするColabサンプル.ipynb](https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/multimedia_logging.ipynb)
@@ -27,6 +28,11 @@
 - [MONAIを用いた胸部セグメンテーションチュートリアル Report](https://t.co/ID7FGdAHCi)
 - [Nejumi LLMリーダーボード Report](https://nejumi.ai)
 - [Forge Reports](https://forge.coreweave.com/forge-reports)
+- [Sweeps overview](https://docs.coreweave.com/products/wandb/sweeps)
+- [Sweep configuration options](https://docs.coreweave.com/products/wandb/sweeps/sweep-config-keys)
+- [Start a sweep agent](https://docs.coreweave.com/products/wandb/sweeps/start-sweep-agents)
+- [Visualize sweep results](https://docs.coreweave.com/products/wandb/sweeps/visualize-sweep-results)
+- [Manage sweeps](https://docs.coreweave.com/products/wandb/sweeps/pause-resume-and-cancel-sweeps)
 - [Lineage graphs and audit history](https://docs.coreweave.com/products/registry/lineage)
 - [Download an artifact from a registry](https://docs.coreweave.com/products/registry/download_use_artifact)
 - [Experiments](https://docs.coreweave.com/products/wandb/track)

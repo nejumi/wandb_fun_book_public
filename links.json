@@ -33,7 +33,7 @@
       ]
     },
     {
-      "chapter": "第2章 実験とアセットを管理する — W&B ModelsとRegistry",
+      "chapter": "第2章 実験とアセットを管理する — W&B Models",
       "links": [
         {
           "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html",
@@ -63,6 +63,11 @@
         {
           "url": "https://github.com/wandb/docs/blob/main/models/runs/rewind.mdx",
           "label": "Rewind a run",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/track/jupyter",
+          "label": "Track Jupyter notebooks",
           "source": "ch2_models.re"
         },
         {
@@ -98,6 +103,31 @@
         {
           "url": "https://forge.coreweave.com/forge-reports",
           "label": "Forge Reports",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/sweeps",
+          "label": "Sweeps overview",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/sweeps/sweep-config-keys",
+          "label": "Sweep configuration options",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/sweeps/start-sweep-agents",
+          "label": "Start a sweep agent",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/sweeps/visualize-sweep-results",
+          "label": "Visualize sweep results",
+          "source": "ch2_models.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/sweeps/pause-resume-and-cancel-sweeps",
+          "label": "Manage sweeps",
           "source": "ch2_models.re"
         },
         {
