@@ -129,6 +129,12 @@
 - [ARIA: View and manage project memories](https://docs.coreweave.com/products/aria#view-and-manage-project-memories)
 - [Secrets in ARIA](https://docs.coreweave.com/products/aria/secrets)
 - [ARIA overview](https://docs.coreweave.com/products/aria)
+- [marimo: Running cells](https://docs.marimo.io/guides/reactivity/)
+- [Python notebooks as dataflow graphs](https://marimo.io/blog/dataflow)
+- [marimo: Interactive elements](https://docs.marimo.io/guides/interactivity/)
+- [marimo: Migrate from Jupyter](https://docs.marimo.io/guides/coming_from/jupyter/)
+- [marimo: Run notebooks as scripts](https://docs.marimo.io/guides/scripts/)
+- [marimo: Run notebooks as apps](https://docs.marimo.io/guides/apps/)
 
 ## 第5章 モデル推論とコード実行 — InferenceとSandboxes
 

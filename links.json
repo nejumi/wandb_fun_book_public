@@ -589,6 +589,36 @@
           "url": "https://docs.coreweave.com/products/aria",
           "label": "ARIA overview",
           "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.marimo.io/guides/reactivity/",
+          "label": "marimo: Running cells",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://marimo.io/blog/dataflow",
+          "label": "Python notebooks as dataflow graphs",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.marimo.io/guides/interactivity/",
+          "label": "marimo: Interactive elements",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.marimo.io/guides/coming_from/jupyter/",
+          "label": "marimo: Migrate from Jupyter",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.marimo.io/guides/scripts/",
+          "label": "marimo: Run notebooks as scripts",
+          "source": "ch4_aria_notebooks.re"
+        },
+        {
+          "url": "https://docs.marimo.io/guides/apps/",
+          "label": "marimo: Run notebooks as apps",
+          "source": "ch4_aria_notebooks.re"
         }
       ]
     },
