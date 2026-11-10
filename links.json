@@ -51,6 +51,11 @@
           "source": "ch2_models.re"
         },
         {
+          "url": "https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app",
+          "label": "W&B Mobile App (iOS)",
+          "source": "ch2_models.re"
+        },
+        {
           "url": "https://github.com/wandb/docs/blob/main/models/runs/forking.mdx",
           "label": "Fork a run",
           "source": "ch2_models.re"
@@ -211,11 +216,6 @@
           "source": "ch2_models.re"
         },
         {
-          "url": "https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app",
-          "label": "W&B Mobile App (iOS)",
-          "source": "ch2_models.re"
-        },
-        {
           "url": "https://docs.coreweave.com/products/wandb/platform/hosting/data-security/secure-storage-connector",
           "label": "Bring your own bucket",
           "source": "ch2_models.re"
@@ -261,38 +261,13 @@
           "source": "ch2_models.re"
         },
         {
-          "url": "https://docs.coreweave.com/products/wandb/ref/cli/wandb-job/wandb-job-create",
-          "label": "wandb job create",
-          "source": "ch2_models.re"
-        },
-        {
           "url": "https://docs.coreweave.com/products/aria/autoresearch#launch-components",
           "label": "ARIA autoresearch: Launch components",
           "source": "ch2_models.re"
         },
         {
-          "url": "https://docs.coreweave.com/products/wandb/ref/cli/wandb-launch-agent",
-          "label": "wandb launch-agent",
-          "source": "ch2_models.re"
-        },
-        {
-          "url": "https://docs.coreweave.com/products/wandb/platform/launch/add-job-to-queue",
-          "label": "Add job to queue",
-          "source": "ch2_models.re"
-        },
-        {
-          "url": "https://docs.coreweave.com/products/wandb/platform/launch/job-inputs",
-          "label": "Manage job inputs",
-          "source": "ch2_models.re"
-        },
-        {
           "url": "https://docs.coreweave.com/products/wandb/automations/create-automations/webhook",
           "label": "Create a webhook automation",
-          "source": "ch2_models.re"
-        },
-        {
-          "url": "https://docs.coreweave.com/products/wandb/platform/launch/setup-agent-advanced",
-          "label": "Set up launch agent",
           "source": "ch2_models.re"
         }
       ]
@@ -368,6 +343,11 @@
         {
           "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/view-agent-signals",
           "label": "Monitor your agents with signals",
+          "source": "ch3_weave.re"
+        },
+        {
+          "url": "https://docs.coreweave.com/products/wandb/weave/guides/tracking/create-custom-signal",
+          "label": "Create a custom signal",
           "source": "ch3_weave.re"
         },
         {

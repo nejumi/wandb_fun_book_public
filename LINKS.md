@@ -17,6 +17,7 @@
 - [SGDRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html)
 - [Settings](https://docs.coreweave.com/products/wandb/ref/python/experiments/settings)
 - [W&B公式更新記事より](https://app.getbeamer.com/forge/en/ios-app-system-metrics-now-supported)
+- [W&B Mobile App (iOS)](https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app)
 - [Fork a run](https://github.com/wandb/docs/blob/main/models/runs/forking.mdx)
 - [Rewind a run](https://github.com/wandb/docs/blob/main/models/runs/rewind.mdx)
 - [Weights & Biasesを使用したデータサイエンス実験管理のチュートリアルノートブック](https://colab.research.google.com/github/nejumi/wandb_fun_book_public/blob/main/notebooks/experiment_tracking_pytorch.ipynb)
@@ -49,7 +50,6 @@
 - [Filter runs](https://docs.coreweave.com/products/wandb/runs/filter-runs)
 - [Configure experiments: Highlight config values](https://docs.coreweave.com/products/wandb/track/config#highlight-config-values)
 - [Save and diff code](https://docs.coreweave.com/products/wandb/app/features/panels/code)
-- [W&B Mobile App (iOS)](https://docs.coreweave.com/products/wandb/platform/hosting/monitoring-usage/mobile-app)
 - [Bring your own bucket](https://docs.coreweave.com/products/wandb/platform/hosting/data-security/secure-storage-connector)
 - [Custom charts](https://docs.coreweave.com/products/wandb/app/features/custom-charts)
 - [Tutorial: Use custom charts](https://docs.coreweave.com/products/wandb/app/features/custom-charts/walkthrough)
@@ -59,13 +59,8 @@
 - [Edit a report](https://docs.coreweave.com/products/wandb/reports/edit-a-report)
 - [Clone and export reports](https://docs.coreweave.com/products/wandb/reports/clone-and-export-reports)
 - [Create a launch job](https://docs.coreweave.com/products/wandb/platform/launch/create-launch-job)
-- [wandb job create](https://docs.coreweave.com/products/wandb/ref/cli/wandb-job/wandb-job-create)
 - [ARIA autoresearch: Launch components](https://docs.coreweave.com/products/aria/autoresearch#launch-components)
-- [wandb launch-agent](https://docs.coreweave.com/products/wandb/ref/cli/wandb-launch-agent)
-- [Add job to queue](https://docs.coreweave.com/products/wandb/platform/launch/add-job-to-queue)
-- [Manage job inputs](https://docs.coreweave.com/products/wandb/platform/launch/job-inputs)
 - [Create a webhook automation](https://docs.coreweave.com/products/wandb/automations/create-automations/webhook)
-- [Set up launch agent](https://docs.coreweave.com/products/wandb/platform/launch/setup-agent-advanced)
 
 ## 第3章 AIアプリケーションを観測・評価する — WeaveとAgent Lens
 
@@ -83,6 +78,7 @@
 - [Evaluate RAG applications](https://docs.coreweave.com/products/wandb/weave/tutorial-rag)
 - [Set up guardrails](https://docs.coreweave.com/products/wandb/weave/guides/evaluation/guardrails)
 - [Monitor your agents with signals](https://docs.coreweave.com/products/wandb/weave/guides/tracking/view-agent-signals)
+- [Create a custom signal](https://docs.coreweave.com/products/wandb/weave/guides/tracking/create-custom-signal)
 - [Ragas 0.4.3: Faithfulness](https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/faithfulness/)
 - [Ragas 0.4.3: Migration from v0.3 to v0.4](https://docs.ragas.io/en/v0.4.3/howtos/migrations/migrate_from_v03_to_v04/)
 - [Ragas 0.4.3: Context Precision](https://docs.ragas.io/en/v0.4.3/concepts/metrics/available_metrics/context_precision/)
