@@ -54,8 +54,6 @@
 - [Custom charts](https://docs.coreweave.com/products/wandb/app/features/custom-charts)
 - [Tutorial: Use custom charts](https://docs.coreweave.com/products/wandb/app/features/custom-charts/walkthrough)
 - [Compiling Vega-Lite to Vega](https://vega.github.io/vega-lite/usage/compile.html)
-- [Keyboard shortcuts](https://docs.coreweave.com/products/wandb/app/keyboard-shortcuts)
-- [Haruka: W&Bの隠れ機能集（2023年）](https://wandb.ai/haruka/Reports/reports/W-B---Vmlldzo2MjkxMTQ2)
 - [Edit a report](https://docs.coreweave.com/products/wandb/reports/edit-a-report)
 - [Clone and export reports](https://docs.coreweave.com/products/wandb/reports/clone-and-export-reports)
 - [Create a launch job](https://docs.coreweave.com/products/wandb/platform/launch/create-launch-job)
